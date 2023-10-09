@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1>Hana Electronics</h1>
+<h1>Hana Electronics 👋</h1>
 
 <!--
 
