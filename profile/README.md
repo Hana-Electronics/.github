@@ -1,6 +1,7 @@
-<h1>Hana Electronics 👋</h1>
-<img src="https://avatars.githubusercontent.com/u/126194789?s=400&u=0804ed9ea42d23f0a52bf916d2eaed32bbe9b0e1&v=4" />
-
+<div align="center">
+  <h1>Hana Electronics 👋</h1>
+  <img src="https://avatars.githubusercontent.com/u/126194789?s=400&u=0804ed9ea42d23f0a52bf916d2eaed32bbe9b0e1&v=4" />
+</div>
 <!--
 
 **Here are some ideas to get you started:**
