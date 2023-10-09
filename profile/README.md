@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1>Hana Electronics</h1>
+
 <!--
 
 **Here are some ideas to get you started:**
