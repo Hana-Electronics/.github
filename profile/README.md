@@ -1,5 +1,5 @@
 <h1>Hana Electronics 👋</h1>
-<img src="https://user-images.githubusercontent.com/70807500/136845625-7addf1dd-ea2f-41b2-9c6b-f810f80acd07.gif](https://avatars.githubusercontent.com/u/126194789?s=400&u=0804ed9ea42d23f0a52bf916d2eaed32bbe9b0e1&v=4)" />
+<img src="https://avatars.githubusercontent.com/u/126194789?s=400&u=0804ed9ea42d23f0a52bf916d2eaed32bbe9b0e1&v=4" />
 
 <!--
 
