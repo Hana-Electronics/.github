@@ -1,4 +1,0 @@
-# .github
-
-Hana Electronics Organization
-
